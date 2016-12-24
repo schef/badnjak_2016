@@ -4,7 +4,7 @@
   title = "Dah nebesa"
   subtitle = "Tamburaški orkestar Pušćine (2016)"
   composer = "Amy Grant"
-  poet = "Alt"
+  poet = "Tenor"
 }
 
 \paper {
